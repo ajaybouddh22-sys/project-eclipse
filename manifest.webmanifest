@@ -1,0 +1,9 @@
+{
+  "name": "PROJECT ECLIPSE \u2014 Study OS",
+  "short_name": "ECLIPSE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#0b0d14",
+  "description": "Personal 100-day study command center"
+}
